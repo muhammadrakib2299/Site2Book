@@ -198,8 +198,8 @@ Then point your Vercel frontend's `NEXT_PUBLIC_API_BASE` at
 If you already have a server:
 
 ```bash
-git clone https://github.com/muhammadrakib2299/Site2Book---python.git
-cd Site2Book---python
+git clone https://github.com/muhammadrakib2299/Site2Book.git
+cd Site2Book
 docker compose up -d --build
 ```
 
