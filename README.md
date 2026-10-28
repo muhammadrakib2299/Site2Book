@@ -254,4 +254,4 @@ Later:
 
 ## License
 
-TBD
+MIT — see the [LICENSE](LICENSE) file for details.
